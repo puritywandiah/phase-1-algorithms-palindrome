@@ -15,7 +15,7 @@ function isPalindrome(word) {
     return true;
   }
 }
-}
+
 
 /* 
   Add your pseudocode here
